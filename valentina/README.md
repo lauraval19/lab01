@@ -27,11 +27,9 @@ if __name__ == "__main__":
 **Mi universidad:** <https://www.escuelaing.edu.co/es/>
 
 ## me gusta betty la fea
-![]
-(https://headtopics.com/images/2019/7/11/publimetrocol/los-mejores-memes-que-dej-el-sonado-cap-tulo-de-betty-la-fea-1149339204897452032.webp)
+![](https://headtopics.com/images/2019/7/11/publimetrocol/los-mejores-memes-que-dej-el-sonado-cap-tulo-de-betty-la-fea-1149339204897452032.webp)
 ## normalmente tengo el gesto de sherk
-![]
-(https://indiehoy.com/wp-content/uploads/2020/12/shrek.jpg)
+![](https://indiehoy.com/wp-content/uploads/2020/12/shrek.jpg)
 
 
 
