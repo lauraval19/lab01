@@ -30,6 +30,13 @@ if __name__ == "__main__":
 ![](https://headtopics.com/images/2019/7/11/publimetrocol/los-mejores-memes-que-dej-el-sonado-cap-tulo-de-betty-la-fea-1149339204897452032.webp)
 ## normalmente tengo el gesto de sherk
 ![](https://indiehoy.com/wp-content/uploads/2020/12/shrek.jpg)
+## Parte 3
+![WhatsApp Image 2022-01-22 at 4 20 57 PM](https://user-images.githubusercontent.com/98195579/150656489-5b7152bc-0a5c-4531-9095-bdfc0139aabc.jpeg)
+
+![WhatsApp Image 2022-01-22 at 3 10 23 PM](https://user-images.githubusercontent.com/98195579/150656501-68b96c76-d2ca-41d2-8dc5-45c7b8a746d7.jpeg)
+
+![WhatsApp Image 2022-01-22 at 4 13 02 PM](https://user-images.githubusercontent.com/98195579/150656553-5f21f221-0c8a-4185-aa67-aa7be5814e2a.jpeg)
+
 
 
 
