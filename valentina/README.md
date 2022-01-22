@@ -28,6 +28,11 @@ if __name__ == "__main__":
 
 ## me gusta betty la fea
 ![](https://i.pinimg.com/originals/ff/a5/fd/ffa5fdcb87d2f04d79696024c704ab8f.png)
+
+## Lo que no me gusta:
+1. Que me pregunten cosas mientras estoy comiendo.
+2. Lavar ollas.
+
 ## normalmente tengo el gesto de sherk
 ![](https://indiehoy.com/wp-content/uploads/2020/12/shrek.jpg)
 ## Parte 3
