@@ -66,3 +66,9 @@ El hombre ha señalado en distintas ocasiones que una de las claves para lograr 
 >Warren Buffett es el octavo hombre más rico del mundo, según 'Forbes'. FOTO: Larry W. Smith. Archivo EFE
 
 “Esta disciplinada conducta suele ser difícil de aplicar por los inversores minoristas, ya que estos quieren ver resultados en cuestión de días o meses. Sin embargo, los mercados suelen ser ineficientes en el corto plazo, pero muy eficientes en el largo”, dijo Warren a la citada revista.
+
+### Parte 3:
+
+![](https://github.com/lauraval19/lab01/blob/master/Jaime/CapturasTutorialGit.png)
+
+![](https://github.com/lauraval19/lab01/blob/master/Jaime/CapturasTutorialGit2.png)
